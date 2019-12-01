@@ -1,7 +1,7 @@
 # Priority
 
-* assignements
-* PROG
-* GSET
+## 1. Assignements
 
-***at all places***
+## 2. PROG
+
+## 3. GSET
